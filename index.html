@@ -1,40 +1,82 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Boby Selamet Hartono's Musics Gallery</title>
+  <title>Boby Selamet Hartono</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
-  <style>
-    .jumbotron {
-    background-color: yellow;
-    }
-  </style>
+<style>
+ul.menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li.menu {
+  display: inline;
+}
+
+a:link {
+ color: black;
+ text-decoration: none;
+}
+
+a:hover {
+ color: black;
+ text-decoration: underline;
+}
+
+a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+a:active {
+  color: black;
+  text-decoration: none;
+}
+</style>
 </head>
 <body>
 
-<div class="jumbotron text-center">
-  <h1>Boby Selamet Hartono's Musics Gallery</h1>
-  <p>The gallery of music pieces composed by Boby Selamet Hartono</p> 
-</div>
-  
 <div class="container-fluid">
+  <div class="row" id="title">
+    <div class="col-sm-12 text-center"><h3>Boby Selamet Hartono</h3></div>
+  </div>
   <div class="row">
-    <div class="col-sm-1">
-      &nbsp
+    <div class="col-sm-4 text-center">&nbsp</div>
+    <div class="col-sm-4 text-center">
+    <ul class="menu">
+        <li class="menu"><a href="#about">About</a></li>
+        <li class="menu"><a href="#works">Works</a></li>
+        <li class="menu"><a href="#contact">Contact</a></li>
+    </ul>
     </div>
-    <div class="col-sm-1">
-      &nbsp
+    <div class="col-sm-4 text-center">&nbsp</div>
+  </div>
+  <div class="row">
+    <div class="col-sm-12">
+    <h2 id="about">About</h2>
+    <p>Hello! My name is Boby Selamet Hartono. I'm a man who born and live in Indonesia since 1994. I have so many activities. This site is meant to showcase some of my works created by doing my activities.</p>
     </div>
-    <div class="col-sm-1">
-      &nbsp
-    </div>
-    <div class="col-sm-6">
-      <h3>About Me</h3>
-      <p>Hello! My name is Boby Selamet Hartono and I've been composing musics for about 3 years. Below are music pieces composed by me in those 3 years period. Listen to my beautiful musics powered by the beautiful FluidR3 soundfont!</p>
-      <h3>The gallery</h3>
+  </div>
+  <div class="row">
+    <div class="col-sm-12">
+    <h2 id="works">Works</h2>
+    <h3>Computer Scripts</h3>
+            <ol>
+            <li>
+               <h3><a href="https://github.com/bobyselamethartono/midi2wav" target="_blank">midi2wav</a></h3>
+               <p>This is a script to batch or single convert your MIDI file(s) into WAV file(s) using TiMidity++ as its backend.</p>
+            </li>
+            <li>
+               <h3><a href="https://github.com/bobyselamethartono/logthis" target="_blank">logthis</a></h3>
+               <p>This is a script to write and store logs created by you.</p>
+            </li>
+            </ol>
+    <h3>Music Pieces</h3>
             <ol>
             <li>
                <h3>Kimi</h3>
@@ -747,21 +789,19 @@
             </li>
          </ol>
     </div>
-    <div class="col-sm-1">
-      &nbsp
+  </div>
+  <div class="row">
+    <div class="col-sm-12">
+    <h2 id="contact">Contact</h2>
+    <p>Interested in my works? If so, then you could contact me by email via <a href="mailto:bobyselamethartono@gmail.com">bobyselamethartono@gmail.com</a>.</p>
     </div>
-    <div class="col-sm-1">
-      &nbsp
-    </div>
-    <div class="col-sm-1">
-      &nbsp
+    <div class="row">
+    <div class="col-sm-12 text-center">
+    <p><a href="#title">Back to the Top</a></p>
+    <p>Copyright (C) 2019 Boby Selamet Hartono</p>
     </div>
   </div>
 </div>
-
-<div class="container-fluid text-center" style="background-color:yellow;padding-top:10px;">
-<p>Copyright (C) 2019 by Boby Selamet Hartono</p>
-</div>
-
+    
 </body>
 </html>
