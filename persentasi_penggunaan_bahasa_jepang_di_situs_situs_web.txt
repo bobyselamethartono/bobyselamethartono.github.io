@@ -1,0 +1,14 @@
+Sudut Pandang: "Berapa persentasi penggunaan bahasa Jepang di situs-situs web?"
+
+Judul: Persentasi Penggunaan Bahasa Jepang di Situs-Situs Web
+
+Poin-Poin:
++ persentasi penggunaan bahasa Jepang di situs-situs web;
++ penggunaan bahasa Jepang dibandingkan dengan bahasa-bahasa lainnya.
+
+Berdasarkan sebuah survey dari 10 juta situs web oleh W3Techs, didapatkan bahwa penggunaan bahasa Jepang adalah sebesar 2,8%. Angka 2,8% ini berada pada peringkat 7.
+
+Lalu, bagaimana dengan bahasa-bahasa lainnya? Bahasa Inggris merupakan bahasa terpopuler dengan penggunaan sebesar 57,3%. Di atas bahasa Jepang ada bahasa Prancis (3,2%) dan bahasa Jerman (3,9%). Bahasa Italia dan bahasa Cina memiliki persentasi penggunaan yang sama, yaitu 1,4%. Bahasa Indonesia sangat sedikit, yaitu 0,6%.
+
+Referensi
+1. W3TECHS. Usage of content languages for websites [online]. 2020 [dilihat 15 Januari 2020]. Tersedia dari: https://w3techs.com/technologies/overview/content_language
