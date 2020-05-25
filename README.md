@@ -1,5 +1,3 @@
-# Boby Selamet Hartono's Portofolio
+# Situs Pribadi Boby Selamet Hartono
 
-This is Boby Selamet Hartono's portofolio.
-
-Boby Selamet Hartono (C), all rights reserved.
+Ini merupakan situs pribadi Boby Selamet Hartono (aku). Situs ini berisi konten-konten ciptaan aku yang bersifat pribadi. Seluruh isi situs ini merupakan hak cipta eksklusif aku.
